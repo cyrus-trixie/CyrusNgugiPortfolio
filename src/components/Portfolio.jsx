@@ -180,7 +180,7 @@ const Portfolio = () => {
                 career where I get to work with cutting-edge technologies and solve real-world problems.
               </p>
               <div className="flex flex-wrap gap-3">
-                <span className="px-3 py-1 bg-blue-600/20 text-blue-400 rounded-full text-sm">3+ Years Experience</span>
+                <span className="px-3 py-1 bg-blue-600/20 text-blue-400 rounded-full text-sm">5+ Years Experience</span>
                 <span className="px-3 py-1 bg-purple-600/20 text-purple-400 rounded-full text-sm">30+ Projects</span>
                 <span className="px-3 py-1 bg-pink-600/20 text-pink-400 rounded-full text-sm">Remote Friendly</span>
               </div>
