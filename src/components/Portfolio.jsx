@@ -13,6 +13,15 @@ const Portfolio = () => {
 
   const projects = [
     {
+      title: "RedCube restaurant Digital Menu",
+      description: "A digital menu for restaurants, allowing customers to view and order food online.",
+      tech: ["React", "lucide-react", "TailwindCss"],
+      image: "https://redcube.co.ke/logo.png",
+      liveDemo: "https://redcube.co.ke",
+      github: "#",
+      category: "static website"
+    },
+    {
       title: "Chuka TradeHub",
       description: "An online platform for students to buy and sell used items.",
       tech: ["React", "Node.js", "MySql", "TailwindCss"],
